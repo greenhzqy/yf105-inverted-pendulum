@@ -1,0 +1,80 @@
+[
+ {
+  "Ts_ms": 1,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 3.798518305815074
+ },
+ {
+  "Ts_ms": 2,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 6.643875789589011
+ },
+ {
+  "Ts_ms": 4,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 5.319600701075831
+ },
+ {
+  "Ts_ms": 6,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 2.6081545161889905
+ },
+ {
+  "Ts_ms": 8,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 2.8858556384115466
+ },
+ {
+  "Ts_ms": 10,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": -0.15537176728882432
+ },
+ {
+  "Ts_ms": 14,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 0.07382086490330544
+ },
+ {
+  "Ts_ms": 18,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 0.52884098888807
+ },
+ {
+  "Ts_ms": 22,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 0.16556301015316116
+ },
+ {
+  "Ts_ms": 26,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 0.7456369305262779
+ },
+ {
+  "Ts_ms": 30,
+  "stable": true,
+  "peak_theta_deg": 10.0,
+  "final_theta_deg": 0.5679033082240608
+ },
+ {
+  "Ts_ms": 36,
+  "stable": false,
+  "peak_theta_deg": null,
+  "final_theta_deg": null
+ },
+ {
+  "Ts_ms": 44,
+  "stable": false,
+  "peak_theta_deg": null,
+  "final_theta_deg": null
+ }
+]

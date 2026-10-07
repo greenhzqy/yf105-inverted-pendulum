@@ -1,0 +1,307 @@
+[
+ {
+  "t": 2.0,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.002,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.004,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.006,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.008,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.01,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.012,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.014,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.016,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.018,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.02,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.022,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.024,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.026,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.028,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.03,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.032,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.034,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.036,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.038,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.038,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.04,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.04,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.042,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.042,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.044,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.044,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.046,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.046,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.048,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.048,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.05,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.05,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.052,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.052,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.054,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.054,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.056,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.056,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.058,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.058,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.06,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.06,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.062,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.062,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.064,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.064,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.066,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.066,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.068,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.068,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.07,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.07,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.072,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.072,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.074,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.074,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.076,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.076,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ },
+ {
+  "t": 2.078,
+  "code": "SENSOR_INVALID",
+  "msg": "采样无效"
+ },
+ {
+  "t": 2.078,
+  "code": "SENSOR_FAULT",
+  "msg": "传感器断连/冻结，停机"
+ }
+]

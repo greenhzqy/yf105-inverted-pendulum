@@ -1,0 +1,42 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- 编译产物 ----
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.axf
+*.htm
+*.build_log.htm
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# ---- 本地/生成的临时文件 ----
+_TMP/
+*.tmp
+*.log
+*_utf8.tmp
+libangle_core.dll
+libfw_angle_core.dll
+
+# ---- 编辑器/系统 ----
+.vscode/
+.idea/
+.obsidian/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 体积大且可再生成的内容（按需保留在本地）----
+# 旧小车模型已弃用，不纳入仓库
+**/_旧版小车模型归档/
+**/results_backup_old/

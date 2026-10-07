@@ -1,0 +1,27 @@
+[
+ {
+  "t": 2.02,
+  "code": "WATCHDOG_FAULT",
+  "msg": "控制任务超时未喂狗"
+ },
+ {
+  "t": 2.022,
+  "code": "WATCHDOG_FAULT",
+  "msg": "控制任务超时未喂狗"
+ },
+ {
+  "t": 2.024,
+  "code": "WATCHDOG_FAULT",
+  "msg": "控制任务超时未喂狗"
+ },
+ {
+  "t": 2.026,
+  "code": "WATCHDOG_FAULT",
+  "msg": "控制任务超时未喂狗"
+ },
+ {
+  "t": 2.028,
+  "code": "WATCHDOG_FAULT",
+  "msg": "控制任务超时未喂狗"
+ }
+]
