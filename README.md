@@ -106,8 +106,8 @@ python sim\pc_test\test_fw_angle_core.py
 
 ## 设计报告
 
-- [`docs/电机直驱倒立摆自动平衡控制系统-设计报告-曾庆源.pdf`](docs/)（20 页，含方案论证、模型推导、仿真与测试）
-- 答辩讲稿 / 面试速查卡 / 现场演示脚本卡 / 三个故事详解 —— 同在 `docs/`
+- [`docs/电机直驱倒立摆自动平衡控制系统-设计报告-曾庆源.pdf`](docs/电机直驱倒立摆自动平衡控制系统-设计报告-曾庆源.pdf)（20 页，含方案论证、模型推导、仿真与测试）
+- 答辩讲稿 / 面试速查卡 / 现场演示脚本卡 / 三个故事详解 —— 同在 [`docs/`](docs/)
 
 ## 诚实边界
 
@@ -115,10 +115,10 @@ python sim\pc_test\test_fw_angle_core.py
 - 报告中的控制算法结果均为**仿真验证**结果，作为移植到实物的设计依据；
 - 仿真里「强扰动后自动重捕获」曾一度失败，已定位为**判据用了连展角**（转两圈后累积上千度，
   `|θ| < 45°` 永不成立）——改为折回角并加滞回后降级 0.29 s 内重捕获。详见
-  [`sim/仿真数字复核报告-2026-10-07.md`](sim/)。
+  [`sim/仿真数字复核报告-2026-10-07.md`](sim/仿真数字复核报告-2026-10-07.md)。
 
 ## 参考
 
 - 本项目固件为 S2 阶段产物，S3（让摆杆站住）仍在推进；
-- CubeMX 配置清单见 [`firmware/legacy_S1/CubeMX_配置清单.md`](firmware/legacy_S1/)；
-- 接线表见 [`firmware/legacy_S1/接线表.md`](firmware/legacy_S1/)。
+- CubeMX 配置清单见 [`firmware/legacy_S1/CubeMX_配置清单.md`](firmware/legacy_S1/CubeMX_配置清单.md)；
+- 接线表见 [`firmware/legacy_S1/接线表.md`](firmware/legacy_S1/接线表.md)。
